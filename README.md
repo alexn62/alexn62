@@ -48,3 +48,6 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 
 ### [PupWalk](https://github.com/alexn62/pup-walk) - A Dog Walking App
 <img  src="./images/PW-1.png" />
+
+### [Dijkstra & A-* Pathfinding Visualizer](https://alexn62.github.io/pathfinding-visualizer/)
+<img  src="./images/PV-1.png" height="240px"/>
