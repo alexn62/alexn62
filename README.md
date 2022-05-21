@@ -27,7 +27,6 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 
 ## 🤺 Skills
 
-<img class="icon">
 <i class="devicon-typescript-plain colored"></i>
 <i class="devicon-javascript-plain colored"></i>
 <i class="devicon-flutter-plain colored"></i>
@@ -44,7 +43,6 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 <i class="devicon-docker-plain colored"></i>
 <i class="devicon-nginx-plain colored"></i>
 <i class="devicon-tailwindcss-plain colored"></i>
-</img>
 
 <br/>
 <br/>
