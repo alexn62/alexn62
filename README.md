@@ -43,6 +43,7 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 <i class="devicon-docker-plain colored"></i>
 <i class="devicon-nginx-plain colored"></i>
 <i class="devicon-tailwindcss-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 
 <br/>
 <br/>
