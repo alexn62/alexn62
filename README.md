@@ -43,6 +43,8 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 ### [Curbside](https://github.com/CurbsideApp/Curbside) - A Secondhand Marketplace
 <img  src="./images/CM-1.png" />
 
-### [Pocket Chef](https://github.com/alexn62/pocket-chef) - A Smart Recipe Manager
+### [Pocket Chef](https://github.com/alexn62/personal_recipes) - A Smart Recipe Manager
 <img  src="./images/PC-1.png" />
 
+### [PupWalk](https://github.com/alexn62/pup-walk) - A Dog Walking App
+<img  src="./images/PW-1.png" />
