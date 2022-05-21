@@ -50,4 +50,6 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 <img  src="./images/PW-1.png" />
 
 ### [Dijkstra & A-* Pathfinding Visualizer](https://alexn62.github.io/pathfinding-visualizer/)
-<img  src="./images/PV-1.png" height="240px"/>
+<!-- <img  src="./images/PV-1.png" height="360px"/> -->
+<img  src="./images/PV-2.gif" height="360px"/>
+<img  src="./images/PV-3.gif" height="360px"/>
