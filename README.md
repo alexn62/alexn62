@@ -27,24 +27,21 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 
 ## 🤺 Skills
 
-<i class="devicon-typescript-plain colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-flutter-plain colored"></i>
-<i class="devicon-dart-plain colored"></i>
-<i class="devicon-python-plain colored"></i>
-<i class="devicon-pandas-plain colored"></i>
-<i class="devicon-react-plain colored"></i>
-<i class="devicon-nodejs-plain colored"></i>
-<i class="devicon-express-original colored"></i>
-<i class="devicon-graphql-plain colored"></i>
-<i class="devicon-postgresql-plain colored"></i>
-<i class="devicon-mongodb-plain colored"></i>
-<i class="devicon-firebase-plain colored"></i>
-<i class="devicon-docker-plain colored"></i>
-<i class="devicon-nginx-plain colored"></i>
-<i class="devicon-tailwindcss-plain colored"></i>
-<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br/>
 <br/>
 
