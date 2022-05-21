@@ -1,12 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 
-# 💻 Alex Nussbaumer - Full Stack Developer
-## 🙇 About me 
-<div class="wrapper">
-<p class="header">
-
-<p class="intro">
+# 🙇 Alex Nussbaumer - Full Stack Developer
+<p>
 Hey! My name is Alex. I am a full stack software engineer from South Tyrol, Italy 🇮🇹. My primary programming languages are TypeScript and Dart. 
 </p>
 
@@ -20,9 +16,6 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 <a href="https://www.codewars.com/users/alexnussbaumer">
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codeward Badge"/></a>
 </div>
-</div>
-
-<br/>
 <br/>
 
 ## 🤺 Skills
@@ -44,20 +37,6 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </p>
 <br/>
-<br/>
 
 ## 📚 Projects
-<!--
-**alexn62/alexn62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
