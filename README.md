@@ -40,4 +40,9 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 
 ## 📚 Projects
 
-<img height="360px" src="./images/PC-1.png" />
+### [Curbside](https://github.com/CurbsideApp/Curbside) - A Secondhand Marketplace
+<img  src="./images/CM-1.png" />
+
+### [Pocket Chef](https://github.com/alexn62/pocket-chef) - A Smart Recipe Manager
+<img  src="./images/PC-1.png" />
+
