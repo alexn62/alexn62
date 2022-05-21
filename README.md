@@ -27,7 +27,7 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 
 ## 🤺 Skills
 
-
+<p float="left">
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
@@ -42,6 +42,7 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  </p>
 <br/>
 <br/>
 
