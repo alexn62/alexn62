@@ -40,3 +40,4 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 
 ## 📚 Projects
 
+<img height="360px" src="./images/PC-1.png" />
