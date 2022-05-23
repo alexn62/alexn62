@@ -40,6 +40,7 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 
 ## 📚 Projects
 
+
 ### [Curbside](https://github.com/CurbsideApp/Curbside) - A Secondhand Marketplace
 <img  src="./images/CM-1.png" />
 
@@ -49,7 +50,7 @@ After developing serveral apps with **Flutter** and **Dart**, I decided to solid
 ### [PupWalk](https://github.com/alexn62/pup-walk) - A Dog Walking App
 <img  src="./images/PW-1.png" />
 
-### [Dijkstra & A-* Pathfinding Visualizer](https://alexn62.github.io/pathfinding-visualizer/)
+### Dijkstra & A-* Pathfinding Visualizer [💻 Website](https://alexn62.github.io/pathfinding-visualizer/)  [👾 Repo](https://github.com/alexn62/pathfinding-visualizer)
 <!-- <img  src="./images/PV-1.png" height="360px"/> -->
 <p float="left">
 <img  src="./images/PV-2.gif" height="360px"/>
