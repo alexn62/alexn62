@@ -6,8 +6,7 @@
 Hey! My name is Alex. I am a full stack software engineer from South Tyrol, Italy 🇮🇹. My primary programming languages are TypeScript and Dart. 
 </p>
 
-After developing serveral apps with **Flutter** and **Dart**, I decided to solidify my programming knowledge through an immersive software engineering program in Berlin, Germany 🇩🇪. Throughout the program, I created multiple apps, including the eco friendly second hand market platform **Curbside** as well as a dog walking app **PupWalk**.
-<p>
+
 <div id="badges">
 <a href="https://www.linkedin.com/in/alex-nussbaumer/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
